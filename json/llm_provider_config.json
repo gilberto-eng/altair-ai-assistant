@@ -1,0 +1,7 @@
+{
+    "provider":  "groq",
+    "api_key":  "",
+    "base_url":  "https://api.groq.com/openai/v1/chat/completions",
+    "model_main":  "openai/gpt-oss-120b",
+    "model_router":  "openai/gpt-oss-120b"
+}
